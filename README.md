@@ -19,14 +19,20 @@ This project is used to many targets:
   * PPO
   * DDP
 
+
+# Kaggle Platform
+
 All these notebooks have been completed running on the [Kaggle](https://www.kaggle.com/aisuko/code) platform. With the free GPUs. Some of the notebooks use a single GPU P100, some of notebooks use double GPU T4x2, others use CPUs.
+
+
+# Metrics
 
 And you can check the metrics of the fine-tuning in [wandb.ai](https://wandb.ai/causal_language_trainer?shareProfileType=copy). It includes many of useful metrics, like: training, evaling, system power usage, like below:
 
 <div style="text-align: center"><img src="images/The metrics of fine-tuning.png" width="100%" heigh="100%" alt="LLMs tools ecosystem"></div>
 
 
-## LLMs tools ecosystem
+# LLMs tools ecosystem
 
 The tools we used in this project are as follows:
 
@@ -35,13 +41,18 @@ The tools we used in this project are as follows:
 See the image's original address [here](https://xmind.ai/share/nEg3GJSn?xid=PK30CWGM) 
 
 
-## Quantization techniques
+# Quantization techniques
 
 The quantization techniques we used in this project are as follows:
 
 <div style="text-align: center"><img src="images/LLMs ecosystems-Weight of Quantization.png" width="100%" heigh="60%" alt="quantization techniques"></div>
 
 See the image's original address [here](https://xmind.ai/share/nEg3GJSn?xid=Ku7E8AEm)
+
+
+# License
+
+Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. See the [LICENSE](LICENSE) file for details. 
 
 
 # Credits
