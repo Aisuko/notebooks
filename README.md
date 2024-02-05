@@ -2,7 +2,11 @@
 
 > We might agree that the operation of LLMs will embed in daily programming in the future. So, we use these notebooks to familiarize ourselves with the LLMs tools ecosystem and quantization techniques.
 
-This project is used to many targets:
+This project's notebooks are covering the following some of the following tasks:
+
+<div style="text-align: center"><img src="images/LLMs ecosystems-Map 11.png" width="100%" heigh="100%" alt="LLMs tools ecosystem"></div>
+
+Some are not the tasks, but the techniques we used in this project, like:
 
 * Using PyTorch to build a neural network and train it on the dataset
 * Fine-tuning the LLMs for practical tasks
