@@ -21,6 +21,10 @@ This project is used to many targets:
 
 All these notebooks have been completed running on the [Kaggle](https://www.kaggle.com/aisuko/code) platform. With the free GPUs. Some of the notebooks use a single GPU P100, some of notebooks use double GPU T4x2, others use CPUs.
 
+And you can check the metrics of the fine-tuning in [wandb.ai](https://wandb.ai/causal_language_trainer?shareProfileType=copy). It includes many of useful metrics, like: training, evaling, system power usage, like below:
+
+<div style="text-align: center"><img src="images/The metrics of fine-tuning.png" width="100%" heigh="100%" alt="LLMs tools ecosystem"></div>
+
 
 ## LLMs tools ecosystem
 
