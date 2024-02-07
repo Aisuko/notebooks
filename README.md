@@ -1,35 +1,20 @@
 # Overview
 
-> We might agree that the operation of LLMs will embed in daily programming in the future. So, we use these notebooks to familiarize ourselves with the LLMs tools ecosystem and quantization techniques.
+> We might agree that the operation of LLMs will embed in daily programming in the future. So, we use these notebooks to familiarize ourselves with the LLMs tools ecosystem and quantization techniques. I believe that Cloud quantum computing is needed for the future of LLMs. Maybe somthing Qubernetes.
+
+All these notebooks have been completed running on the [Kaggle](https://www.kaggle.com/aisuko/code) platform. With the free GPUs. Some of the notebooks use a single GPU P100, some of notebooks use double GPU T4x2, others use CPUs.
+
+
+# The ML tasks are covered in this project
 
 This project's notebooks are covering the following some of the following tasks:
 
 <div style="text-align: center"><img src="images/LLMs ecosystems-Map 11.png" width="100%" heigh="100%" alt="LLMs tools ecosystem"></div>
 
-Some are not the tasks, but the techniques we used in this project, like:
 
-* Using PyTorch to build a neural network and train it on the dataset
-* Fine-tuning the LLMs for practical tasks
-  * LoRA
-  * QLoRA
-* Quantization of the LLMs
-  * AWQ
-  * LLM.INT8
-  * GPTQ
-* Distributed training of the LLMs
-  * Multiple GPUs
-* REHF
-  * Supervised-finetuning
-  * PPO
-  * DDP
+# Metrics of fine-tuning
 
-
-# Kaggle Platform
-
-All these notebooks have been completed running on the [Kaggle](https://www.kaggle.com/aisuko/code) platform. With the free GPUs. Some of the notebooks use a single GPU P100, some of notebooks use double GPU T4x2, others use CPUs.
-
-
-# Metrics
+> Note: All the fine-tuning here is under the limited computing resource, so the metrics are not the best. Most of reasons are `num_train_epochs` is not enough. However, the fine-tuning process is the same as the normal process.
 
 And you can check the metrics of the fine-tuning in [wandb.ai](https://wandb.ai/causal_language_trainer?shareProfileType=copy). It includes many of useful metrics, like: training, evaling, system power usage, like below:
 
@@ -38,7 +23,7 @@ And you can check the metrics of the fine-tuning in [wandb.ai](https://wandb.ai/
 
 # LLMs tools ecosystem
 
-The tools we used in this project are as follows:
+The tools we covered in this project are as follows:
 
 <div style="text-align: center"><img src="images/LLMs ecosystems-LLMs ecosystems.png" width="100%" heigh="100%" alt="LLMs tools ecosystem"></div>
 
