@@ -9,7 +9,14 @@ All these notebooks have been completed running on the [Kaggle](https://www.kagg
 
 This project's notebooks are covering the following some of the following tasks:
 
-<div style="text-align: center"><img src="images/LLMs ecosystems-Map 11.png" width="100%" heigh="100%" alt="LLMs tools ecosystem"></div>
+<div style="text-align: center"><img src="images/LLMs ecosystems-Map 11.png" width="100%" heigh="100%" alt="LLMs ecosystem map"></div>
+
+
+# The LLMs are used in this project
+
+The some of LLMs are used in this project are as follows:
+
+<div style="text-align: center"><img src="images/LLMs ecosystems-LLMs.png" width="100%" heigh="100%" alt="LLMs ecosystem LLMs"></div>
 
 
 # Metrics of fine-tuning
@@ -18,14 +25,14 @@ This project's notebooks are covering the following some of the following tasks:
 
 And you can check the metrics of the fine-tuning in [wandb.ai](https://wandb.ai/causal_language_trainer?shareProfileType=copy). It includes many of useful metrics, like: training, evaling, system power usage, like below:
 
-<div style="text-align: center"><img src="images/The metrics of fine-tuning.png" width="100%" heigh="100%" alt="LLMs tools ecosystem"></div>
+<div style="text-align: center"><img src="images/The metrics of fine-tuning.png" width="100%" heigh="100%" alt="The metrics of fine-tuning"></div>
 
 
 # LLMs tools ecosystem
 
 The tools we covered in this project are as follows:
 
-<div style="text-align: center"><img src="images/LLMs ecosystems-LLMs ecosystems.png" width="100%" heigh="100%" alt="LLMs tools ecosystem"></div>
+<div style="text-align: center"><img src="images/LLMs ecosystems-LLMs ecosystems.png" width="100%" heigh="100%" alt="LLMs ecosystems-LLMs ecosystem"></div>
 
 See the image's original address [here](https://xmind.ai/share/nEg3GJSn?xid=PK30CWGM) 
 
