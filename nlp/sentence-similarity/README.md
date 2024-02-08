@@ -14,6 +14,8 @@ We will use the Sentence Transformers library to calculate embeddings of sentenc
 
 # Task Variants
 
+<div style="text-align: center"><img src="../../images/LLMs ecosystems-Usage of Sentence-Similarity.png" width="100%" heigh="100%" alt="sentence similarity"></div>
+
 ## Passage Ranking
 
 Passage Ranking is the task of ranking documents based on their relevance to a given query. The task is evaluated on Mean Reciprocal Rank. These models take one query and multiple documents and return ranked documents according to the relevancy to the query.
