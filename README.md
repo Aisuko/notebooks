@@ -53,4 +53,4 @@ Licensed under the Apache License, Version 2.0 (the "License"); you may not use 
 
 # Credits
 
-Many of the notebooks are based on blogs on Medium or Huggingface docs etc. Thanks for these great works.
+Many of the notebooks are based on articles on Medium, TheNewStack and Huggingface etc. Thanks for these great works.
