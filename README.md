@@ -16,7 +16,7 @@ This project's notebooks are covering the following some of the following tasks:
 
 The some of LLMs are used in this project are as follows:
 
-<div style="text-align: center"><img src="images/LLMs ecosystems-LLMs.png" width="100%" heigh="100%" alt="LLMs ecosystem LLMs"></div>
+<div style="text-align: center"><img src="images/LLMs ecosystems-Transformers Architecture.png" width="100%" heigh="100%" alt="LLMs ecosystem LLMs"></div>
 
 
 # Metrics of fine-tuning
@@ -41,7 +41,7 @@ See the image's original address [here](https://xmind.ai/share/nEg3GJSn?xid=PK30
 
 The quantization techniques we used in this project are as follows:
 
-<div style="text-align: center"><img src="images/LLMs ecosystems-Weight of Quantization.png" width="100%" heigh="60%" alt="quantization techniques"></div>
+<div style="text-align: center"><img src="images/LLMs ecosystems-Weight of Quantization.png" width="100%" heigh="100%" alt="quantization techniques"></div>
 
 See the image's original address [here](https://xmind.ai/share/nEg3GJSn?xid=Ku7E8AEm)
 
