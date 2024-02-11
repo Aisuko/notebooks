@@ -12,7 +12,7 @@ We can extract information from documation from documents using Sentence Similar
 We will use the Sentence Transformers library to calculate embeddings of sentences, paragraphs, and entire documents. An embedding is just a vector representation of a text and it useful for finding how similar two texts are.
 
 
-# Task Variants
+# Usage
 
 <div style="text-align: center"><img src="../../images/LLMs ecosystems-Usage of Sentence-Similarity.png" width="100%" heigh="100%" alt="sentence similarity"></div>
 
