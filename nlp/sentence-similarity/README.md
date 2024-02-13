@@ -14,7 +14,7 @@ We will use the Sentence Transformers library to calculate embeddings of sentenc
 
 # Usage
 
-<div style="text-align: center"><img src="../../images/LLMs ecosystems-Usage of Sentence-Similarity.png" width="100%" heigh="100%" alt="sentence similarity"></div>
+<div style="text-align: center"><img src="../../images/LLMs ecosystems-SentenceTransformer.png" width="100%" heigh="100%" alt="sentence trnsformer"></div>
 
 ## Passage Ranking
 
