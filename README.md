@@ -4,6 +4,11 @@
 
 All these notebooks have been completed running on the [Kaggle](https://www.kaggle.com/aisuko/code) platform. With the free GPUs. Some of the notebooks use a single GPU P100, some of notebooks use double GPU T4x2, others use CPUs.
 
+# This project is interested in
+
+I want to use of deep neural networks to do GenAI on consumer-grade hardware for researching.
+
+<div style="text-align: center"><img src="images/LLMs ecosystems-Artificial Intelligence.png" width="100%" heigh="100%" alt="AI"></div>
 
 # The ML tasks are covered in this project
 
@@ -30,7 +35,7 @@ And you can check the metrics of the fine-tuning in [wandb.ai](https://wandb.ai/
 <div style="text-align: center"><img src="images/The metrics of fine-tuning.png" width="100%" heigh="100%" alt="The metrics of fine-tuning"></div>
 
 
-# LLMs tools ecosystem
+# LLMs tools are used in this project
 
 The tools we covered in this project are as follows:
 
@@ -39,7 +44,7 @@ The tools we covered in this project are as follows:
 See the image's original address [here](https://xmind.ai/share/nEg3GJSn?xid=PK30CWGM) 
 
 
-# Quantization techniques
+# Quantization techniques are used in this project
 
 The quantization techniques we used in this project are as follows:
 
