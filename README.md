@@ -4,6 +4,8 @@
 
 All these notebooks have been completed running on the [Kaggle](https://www.kaggle.com/aisuko/code) platform. With the free GPUs. Some of the notebooks use a single GPU P100, some of notebooks use double GPU T4x2, others use CPUs.
 
+> Note: Some of the large size notebooks like [Topic Modeling with BERTopic](nlp/sentence-similarity/clustering/topic-modeling-with-bertopic.ipynb) may not be able to show the complete version on the preview of Github. You can open it in the Kaggle platform by clicking the link in the notebook's title.
+
 # This project is interested in
 
 I want to use of deep neural networks to do GenAI on consumer-grade hardware for researching.
