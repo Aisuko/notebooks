@@ -9,7 +9,9 @@ All these notebooks have been completed running on the [Kaggle](https://www.kagg
 
 This project's notebooks are covering the following some of the following tasks:
 
-<div style="text-align: center"><img src="images/LLMs ecosystems-Map 11.png" width="100%" heigh="100%" alt="LLMs ecosystem map"></div>
+<div style="text-align: center"><img src="images/LLMs ecosystems-ML Tasks.png" width="100%" heigh="100%" alt="LLMs ecosystem map"></div>
+
+The original address on my [xmind](https://xmind.ai/share/nEg3GJSn?xid=4zx6z3tV)
 
 
 # The LLMs are used in this project
