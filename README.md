@@ -55,6 +55,10 @@ The quantization techniques we used in this project are as follows:
 See the image's original address [here](https://xmind.ai/share/nEg3GJSn?xid=Ku7E8AEm)
 
 
+# The Concepts From Papers We Should Know
+
+<div style="text-align: center"><img src="images/LLMs ecosystems-Concepts From Papers.png" width="100%" heigh="100%" alt="the concepts from papers"></div>
+
 # License
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. See the [LICENSE](LICENSE) file for details. 
