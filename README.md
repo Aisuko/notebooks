@@ -6,18 +6,19 @@ All these notebooks have been completed running on the [Kaggle](https://www.kagg
 
 > Note: Some of the large size notebooks like [Topic Modeling with BERTopic](nlp/sentence-similarity/clustering/topic-modeling-with-bertopic.ipynb) may not be able to show the complete version on the preview of Github. You can open it in the Kaggle platform by clicking the link in the notebook's title.
 
+
 # This project is interested in
 
 I want to use of deep neural networks to do GenAI on consumer-grade hardware for researching.
 
-<div style="text-align: center"><img src="images/The Field of AI in Layers.svg" width="100%" heigh="100%" alt="AI"></div>
+<div style="text-align: center"><img src="images/The Field of AI in Layers.svg" width="100%" heigh="100%" alt="the field of AI in layers"></div>
+
 
 # The ML tasks are covered in this project
 
 This project's notebooks are covering the following some of the following tasks:
 
-<div style="text-align: center"><img src="images/LLMs ecosystems-ML Tasks.png" width="100%" heigh="100%" alt="LLMs ecosystem map"></div>
-
+<div style="text-align: center"><img src="images/ML Tasks.svg" width="100%" heigh="100%" alt="ML Tasks"></div>
 
 
 # The LLMs are used in this project
