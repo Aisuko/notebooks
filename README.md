@@ -10,7 +10,7 @@ All these notebooks have been completed running on the [Kaggle](https://www.kagg
 
 I want to use of deep neural networks to do GenAI on consumer-grade hardware for researching.
 
-<div style="text-align: center"><img src="images/LLMs ecosystems-Artificial Intelligence.png" width="100%" heigh="100%" alt="AI"></div>
+<div style="text-align: center"><img src="images/The Field of AI in Layers.svg" width="100%" heigh="100%" alt="AI"></div>
 
 # The ML tasks are covered in this project
 
@@ -18,7 +18,6 @@ This project's notebooks are covering the following some of the following tasks:
 
 <div style="text-align: center"><img src="images/LLMs ecosystems-ML Tasks.png" width="100%" heigh="100%" alt="LLMs ecosystem map"></div>
 
-The original address on my [xmind](https://xmind.ai/share/nEg3GJSn?xid=4zx6z3tV)
 
 
 # The LLMs are used in this project
