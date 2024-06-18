@@ -25,7 +25,7 @@ This project's notebooks are covering the following some of the following tasks:
 
 The some of LLMs are used in this project are as follows:
 
-<div style="text-align: center"><img src="images/LLMs ecosystems-Transformers Architecture.png" width="100%" heigh="100%" alt="LLMs ecosystem LLMs"></div>
+<div style="text-align: center"><img src="images/LLMs ecosystems-Transformers Architecture.svg" width="100%" heigh="100%" alt="LLMs ecosystem LLMs"></div>
 
 
 # Metrics of fine-tuning
@@ -41,7 +41,7 @@ And you can check the metrics of the fine-tuning in [wandb.ai](https://wandb.ai/
 
 The tools we covered in this project are as follows:
 
-<div style="text-align: center"><img src="images/LLMs ecosystems-LLMs ecosystems.png" width="100%" heigh="100%" alt="LLMs ecosystems-LLMs ecosystem"></div>
+<div style="text-align: center"><img src="images/LLMs ecosystems-LLMs ecosystems.svg" width="100%" heigh="100%" alt="LLMs ecosystems-LLMs ecosystem"></div>
 
 See the image's original address [here](https://xmind.ai/share/nEg3GJSn?xid=PK30CWGM) 
 
@@ -50,14 +50,14 @@ See the image's original address [here](https://xmind.ai/share/nEg3GJSn?xid=PK30
 
 The quantization techniques we used in this project are as follows:
 
-<div style="text-align: center"><img src="images/LLMs ecosystems-Weight of Quantization.png" width="100%" heigh="100%" alt="quantization techniques"></div>
+<div style="text-align: center"><img src="images/LLMs ecosystems-Weight of Quantization.svg" width="100%" heigh="100%" alt="quantization techniques"></div>
 
 See the image's original address [here](https://xmind.ai/share/nEg3GJSn?xid=Ku7E8AEm)
 
 
 # The Concepts From Papers We Should Know
 
-<div style="text-align: center"><img src="images/LLMs ecosystems-Concepts From Papers.png" width="100%" heigh="100%" alt="the concepts from papers"></div>
+<div style="text-align: center"><img src="images/LLMs ecosystems-Concepts From Papers.svg" width="100%" heigh="100%" alt="the concepts from papers"></div>
 
 # License
 
