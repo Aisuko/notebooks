@@ -43,16 +43,12 @@ The tools we covered in this project are as follows:
 
 <div style="text-align: center"><img src="images/LLMs ecosystems-LLMs ecosystems.svg" width="100%" heigh="100%" alt="LLMs ecosystems-LLMs ecosystem"></div>
 
-See the image's original address [here](https://xmind.ai/share/nEg3GJSn?xid=PK30CWGM) 
-
 
 # Quantization techniques are used in this project
 
 The quantization techniques we used in this project are as follows:
 
-<div style="text-align: center"><img src="images/LLMs ecosystems-Weight of Quantization.svg" width="100%" heigh="100%" alt="quantization techniques"></div>
-
-See the image's original address [here](https://xmind.ai/share/nEg3GJSn?xid=Ku7E8AEm)
+<div style="text-align: center"><img src="images/Quantization.svg" width="100%" heigh="100%" alt="quantization techniques"></div>
 
 
 # The Concepts From Papers We Should Know
